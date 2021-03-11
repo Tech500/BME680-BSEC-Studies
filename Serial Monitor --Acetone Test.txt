@@ -1,0 +1,329 @@
+Connection result: 3
+FS init: ok
+
+BSEC library version 1.4.8.0
+wait for first valid timestamp ........
+System Time set
+
+Temperature:     72.37 F 
+Pressure:        30.27 inHg
+Humidity:        32.52 %
+Gas:             464.25 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+
+
+Temperature:     72.65 F 
+Pressure:        30.27 inHg
+Humidity:        31.83 %
+Gas:             568.29 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:35:30 EST
+
+Temperature:     72.71 F 
+Pressure:        30.27 inHg
+Humidity:        32.91 %
+Gas:             534.46 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:36:00 EST
+
+Temperature:     72.91 F 
+Pressure:        30.27 inHg
+Humidity:        32.67 %
+Gas:             579.19 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:36:30 EST
+
+Temperature:     72.83 F 
+Pressure:        30.27 inHg
+Humidity:        35.54 %
+Gas:             481.05 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:37:00 EST
+
+Temperature:     71.99 F 
+Pressure:        30.27 inHg
+Humidity:        36.07 %
+Gas:             388.73 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:37:30 EST
+
+Temperature:     71.79 F 
+Pressure:        30.27 inHg
+Humidity:        35.88 %
+Gas:             375.43 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:38:00 EST
+
+Temperature:     71.56 F 
+Pressure:        30.27 inHg
+Humidity:        37.87 %
+Gas:             330.96 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:38:30 EST
+
+Temperature:     71.47 F 
+Pressure:        30.27 inHg
+Humidity:        38.12 %
+Gas:             323.11 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:39:00 EST
+
+Temperature:     71.43 F 
+Pressure:        30.28 inHg
+Humidity:        38.97 %
+Gas:             310.82 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:39:30 EST
+
+Temperature:     71.36 F 
+Pressure:        30.28 inHg
+Humidity:        39.23 %
+Gas:             305.87 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+25.00
+Tue , 03/09/2021 , 15:40:00 EST
+
+Temperature:     71.32 F 
+Pressure:        30.28 inHg
+Humidity:        38.87 %
+Gas:             309.93 KOhms
+CO2:             484.95 KOhms
+VOC:             0.47 KOhms
+
+Air Quality:  Good
+16.39
+Tue , 03/09/2021 , 15:40:30 EST
+
+Temperature:     71.11 F 
+Pressure:        30.28 inHg
+Humidity:        42.22 %
+Gas:             270.89 KOhms
+CO2:             753.59 KOhms
+VOC:             1.07 KOhms
+
+Air Quality:  Less Avg.
+140.28
+Tue , 03/09/2021 , 15:41:00 EST
+
+Temperature:     71.07 F 
+Pressure:        30.28 inHg
+Humidity:        42.04 %
+Gas:             270.00 KOhms
+CO2:             804.85 KOhms
+VOC:             1.16 KOhms
+
+Air Quality:  Bad
+152.02
+Tue , 03/09/2021 , 15:41:30 EST
+
+Temperature:     71.00 F 
+Pressure:        30.28 inHg
+Humidity:        42.69 %
+Gas:             270.00 KOhms
+CO2:             804.76 KOhms
+VOC:             1.16 KOhms
+
+Air Quality:  Bad
+152.00
+Tue , 03/09/2021 , 15:42:00 EST
+
+Temperature:     71.03 F 
+Pressure:        30.28 inHg
+Humidity:        41.75 %
+Gas:             275.92 KOhms
+CO2:             636.04 KOhms
+VOC:             0.84 KOhms
+
+Air Quality:  Less Avg.
+102.85
+Tue , 03/09/2021 , 15:42:30 EST
+
+Temperature:     71.14 F 
+Pressure:        30.28 inHg
+Humidity:        40.02 %
+Gas:             302.76 KOhms
+CO2:             505.67 KOhms
+VOC:             0.51 KOhms
+
+Air Quality:  Good
+28.25
+Tue , 03/09/2021 , 15:43:00 EST
+
+Temperature:     71.12 F 
+Pressure:        30.28 inHg
+Humidity:        41.37 %
+Gas:             288.85 KOhms
+CO2:             549.35 KOhms
+VOC:             0.60 KOhms
+
+Air Quality:  Aver.
+53.24
+Tue , 03/09/2021 , 15:43:30 EST
+
+Temperature:     71.07 F 
+Pressure:        30.28 inHg
+Humidity:        42.52 %
+Gas:             290.39 KOhms
+CO2:             541.73 KOhms
+VOC:             0.59 KOhms
+
+Air Quality:  Good
+48.88
+Tue , 03/09/2021 , 15:44:00 EST
+
+Temperature:     71.05 F 
+Pressure:        30.28 inHg
+Humidity:        41.76 %
+Gas:             296.44 KOhms
+CO2:             499.15 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+24.51
+Tue , 03/09/2021 , 15:44:30 EST
+
+Data written to  /LOG03092021.TXT  Tue , 03/09/2021 , 15:45:00 EST
+
+Channel update successful.
+
+Temperature:     71.16 F 
+Pressure:        30.27 inHg
+Humidity:        40.80 %
+Gas:             305.02 KOhms
+CO2:             464.44 KOhms
+VOC:             0.44 KOhms
+
+Air Quality:  Good
+4.65
+Tue , 03/09/2021 , 15:45:00 EST
+
+Temperature:     71.11 F 
+Pressure:        30.27 inHg
+Humidity:        42.67 %
+Gas:             294.31 KOhms
+CO2:             544.79 KOhms
+VOC:             0.59 KOhms
+
+Air Quality:  Good
+50.63
+Tue , 03/09/2021 , 15:45:30 EST
+
+Temperature:     71.23 F 
+Pressure:        30.27 inHg
+Humidity:        42.70 %
+Gas:             300.81 KOhms
+CO2:             479.99 KOhms
+VOC:             0.46 KOhms
+
+Air Quality:  Good
+13.55
+Tue , 03/09/2021 , 15:46:00 EST
+
+Temperature:     72.04 F 
+Pressure:        30.27 inHg
+Humidity:        39.99 %
+Gas:             335.03 KOhms
+CO2:             400.00 KOhms
+VOC:             0.34 KOhms
+
+Air Quality:  Good
+0.00
+Tue , 03/09/2021 , 15:46:30 EST
+
+Temperature:     72.42 F 
+Pressure:        30.27 inHg
+Humidity:        35.97 %
+Gas:             406.57 KOhms
+CO2:             400.00 KOhms
+VOC:             0.34 KOhms
+
+Air Quality:  Good
+0.00
+Tue , 03/09/2021 , 15:47:00 EST
+
+Temperature:     72.37 F 
+Pressure:        30.27 inHg
+Humidity:        33.37 %
+Gas:             447.97 KOhms
+CO2:             400.00 KOhms
+VOC:             0.34 KOhms
+
+Air Quality:  Good
+0.00
+Tue , 03/09/2021 , 15:47:30 EST
+
+Temperature:     72.55 F 
+Pressure:        30.27 inHg
+Humidity:        33.21 %
+Gas:             459.75 KOhms
+CO2:             400.00 KOhms
+VOC:             0.34 KOhms
+
+Air Quality:  Good
+0.00
+Tue , 03/09/2021 , 15:48:00 EST
+
+Temperature:     72.55 F 
+Pressure:        30.27 inHg
+Humidity:        35.70 %
+Gas:             448.88 KOhms
+CO2:             400.00 KOhms
+VOC:             0.34 KOhms
+
+Air Quality:  Good
+0.00
+Tue , 03/09/2021 , 15:48:30 EST
+
+Temperature:     72.82 F 
+Pressure:        30.27 inHg
+Humidity:        37.43 %
+Gas:             449.18 KOhms
+CO2:             400.00 KOhms
+VOC:             0.34 KOhms
+
+Air Quality:  Good
+0.00
+Tue , 03/09/2021 , 15:49:00 EST

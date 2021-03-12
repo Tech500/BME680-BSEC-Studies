@@ -448,7 +448,7 @@ void loop()
 
     }
 
-    if(dataPoint == count)
+    if(dataPoint > count)
     {
 
         Serial.println("\n\nEnd of Test --Disconnect USB Cable");

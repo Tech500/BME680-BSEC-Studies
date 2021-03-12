@@ -5,6 +5,6 @@ Example of use in graphing: Soaked a Q-tip in acetone, placed Q-tip very close t
 
 Free "Thingspeak.com" account is needed to create graphs: https://community.thingspeak.com/tutorials/arduino/send-data-to-thingspeak-with-arduino/
 
-Prokect Graph for Acetone test:  https://github.com/Tech500/BME680-BSEC-Studies/blob/main/Gas%20Study%20Graphs%20--IAQ%2CResistanc%2C%20CO2%2C%20and%20VOC.JPG
+Project Graph for Acetone test:  https://github.com/Tech500/BME680-BSEC-Studies/blob/main/Gas%20Study%20Graphs%20--IAQ%2CResistanc%2C%20CO2%2C%20and%20VOC.JPG
 
 

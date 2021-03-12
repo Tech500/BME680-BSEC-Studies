@@ -6,5 +6,7 @@ Example of use in graphing: Soaked a Q-tip in acetone, placed Q-tip very close t
 Free "Thingspeak.com" account is needed to create graphs: https://community.thingspeak.com/tutorials/arduino/send-data-to-thingspeak-with-arduino/
 Graphing uses "Thingspeak.com" Iframes to display graphs.  Iframe are inserted into HTML code of "index3.h" and "index 4.h". 
 
-Project Graph for Acetone test:  https://github.com/Tech500/BME680-BSEC-Studies/blob/main/Gas%20Study%20Graphs%20--IAQ%2CResistanc%2C%20CO2%2C%20and%20VOC.JPG
+Project Graphs for Acetone test: https://github.com/Tech500/BME680-BSEC-Studies/blob/main/BME680%20%20BSEC%20Acetone%20TEST.JPG
+
+"Wemos D1 R2" was used developing project.  FTP was tested using "FileZilla."
 

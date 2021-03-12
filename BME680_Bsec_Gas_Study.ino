@@ -448,7 +448,7 @@ void loop()
 
      }   
     
-    if((MINUTE % 1 == 0) && (SECOND == 0) && (dataPoint != count))  //data point every 2 minutes
+    if((MINUTE % 2 == 0) && (SECOND == 0) && (dataPoint != count))  //data point every 2 minutes
     {     
         
         dataPoint++;
@@ -463,7 +463,7 @@ void loop()
 
         serialMonitor(); 
 
-        if(dataPoint == 2) //default = 15 (30 minutes)
+        if(dataPoint == 15) //default = 15 (30 minutes)
         {
 
             Serial.println("\n\nBegin Test; BME680 has been 'ON' 30 minutes");

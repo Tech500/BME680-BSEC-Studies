@@ -6,7 +6,7 @@
  * Original code from Rui Santos
  * Project Details https://RandomNerdTutorials.com
  * *
- * *    Robert Gillespie's  "OLED_BME680.odt"  --bases of modified code
+ * *    Robert G's  "OLED_BME680.odt"  --bases of modified code
  * *
  * *    BME680_DataLogger_Webserver.ino modifion code 3/3/2021 William Lucid's
  *
@@ -406,9 +406,7 @@ void loop()
      //Convert float to String
      
      getDateTime();
-
-     
-     /*
+    
      if(SECOND ==  0)
      {
 
@@ -430,9 +428,7 @@ void loop()
           exit;
 
      } 
-     */
-
-    
+         
     if((MINUTE % interval == 0) && (SECOND == 0) && (dataPoint != count))  //data point every 2 minutes
     {     
         

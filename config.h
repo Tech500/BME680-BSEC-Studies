@@ -46,5 +46,11 @@ const char * myWriteAPIKey1 = "9abcdefg";
 unsigned long myChannelNumber2 = 11234567890;
 const char * myWriteAPIKey2 = "abcdefg";
 
-int count = 90;  //180 minutes; data points every 2 minutes
+int count =90;  //default = 90 data points one every 2 minutes
+
+int interval = 2;  //time between dataPoints  --60 Minutes needs to be divided evenly, no reminder   
+//(MINUTES % interval == 0)  default =60/2 = 40 dataPoints prt Hour
+
+int wait = 15; //Number of datapoints to wait --pre-heating BME680
+
 
